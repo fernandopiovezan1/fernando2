@@ -1,0 +1,4 @@
+[submodule "quasar-samples-new"]
+	path = quasar-samples-new
+	url = git@github.com:fernandopiovezan1/quasar-samples.git
+	branch = master
